@@ -9,14 +9,14 @@ header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
 ---
 
-History  
+# History  
 
-	The first radio transmissions of signal were created in Morse code and occurred in the mid 1890s. Guglielmo Marconi demonstrated this over open water on May 13th, 1897. The first transmission of a human voice happened December 23rd, 1900. This act was performed by Reginald Fessenden and only six years later, on Christmas eve, the first ever broadcast of a voice and music was heard. 10 years later, a man named Lee Dee Forest set up an experimental radio station. He would broadcast nightly, speaking about news and sharing music, but World War 2 had completely halted the station. During World War 2, development in radio technology occurred. After the war, small stations had slowly begun to open and were using this new technology. By 1922, dramas would begin to be broadcast. Scripts would be written and performed on the air for listeners. Department stores began to use radio commercials to attract customers, but in a more suttle way since advertising used to be seen as an invasion of privacy. 
+The first radio transmissions of signal were created in Morse code and occurred in the mid 1890s. Guglielmo Marconi demonstrated this over open water on May 13th, 1897. The first transmission of a human voice happened December 23rd, 1900. This act was performed by Reginald Fessenden and only six years later, on Christmas eve, the first ever broadcast of a voice and music was heard. 10 years later, a man named Lee Dee Forest set up an experimental radio station. He would broadcast nightly, speaking about news and sharing music, but World War 2 had completely halted the station. During World War 2, development in radio technology occurred. After the war, small stations had slowly begun to open and were using this new technology. By 1922, dramas would begin to be broadcast. Scripts would be written and performed on the air for listeners. Department stores began to use radio commercials to attract customers, but in a more suttle way since advertising used to be seen as an invasion of privacy. 
 
 After the Great Depression, advertising became a normal way of creating revenue for radio stations. Larger businesses began to see the potential that radio broadcasting had and created networks. Early on, networks such as the Nation Broadcasting Network (NBC) and Columbia Broadcasting system (CBS) were created and were the head competitors of the radio broadcasting world. 
 
 
-Disruption of Expertise 
+# Disruption of Expertise 
 
 Before radio broadcasting, expertise is mostly mediated through institutions such as as churches, universities, and print publishing companies. When broadcasting came out, anyone could reach millions of people to get their voices and ideas heard. Before this, you must have hadd credentials or an editor's approval. Authority was no longer about who had credentials; instead, it was about accessibility. During the Great Depression, peoples' trust shifted and led people to rely more on political commentators and radio speakers rather than academics. This was because commentators knew how to connect with people through their words, while most academics did not do this, leading them to seem more “robotic”.  
 
