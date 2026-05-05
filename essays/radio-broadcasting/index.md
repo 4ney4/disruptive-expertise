@@ -34,7 +34,7 @@ People often referred to women's voices as “flat” and “shrill” when they
 
 
 {% include images/jumbotron.html %}
-  image-path="images/head-to-head.webp"
+  image-path="images/jimmy-wales-imac.jpg"
   height="85vh"
   background-position="center top"
   box-align="left"
@@ -42,7 +42,7 @@ People often referred to women's voices as “flat” and “shrill” when they
 
 
 {% include images/figure-wrap.html %}
-  image-path="images/wikipedia-growth.PNG"
+  image-path="images/shutterstock_1042721746-1920x1080.jpg"
   image-position="left"
   image-width="44%"
   caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
