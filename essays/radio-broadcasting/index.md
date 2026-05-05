@@ -20,11 +20,10 @@ After the Great Depression, advertising became a normal way of creating revenue 
 
 Before radio broadcasting, expertise is mostly mediated through institutions such as as churches, universities, and print publishing companies. When broadcasting came out, anyone could reach millions of people to get their voices and ideas heard. Before this, you must have hadd credentials or an editor's approval. Authority was no longer about who had credentials; instead, it was about accessibility. During the Great Depression, peoples' trust shifted and led people to rely more on political commentators and radio speakers rather than academics. This was because commentators knew how to connect with people through their words, while most academics did not do this, leading them to seem more “robotic”.  
 
-
-
-# Wikipedia and the Wisdom of the Crowd
-
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
+# Radio Broadcastings impact on everyday life
+In the early 20th century, rural areas of the United States were not being included in these new technological advances. By the 1920s, cars, cellphones, and radios were being used by farmers. Companies had started to market “farm radios” to farmers in order to get them involved with the new technological advancements and increase their audiences. This is believed to have been an influence of the rise in agricultural productivity during that time. Radio broadcasting also influenced the start of advertising to people in their homes. Before television, radio broadcasting was seen as the best way to reach as many people as possible when advertising. Radio broadcasting used to be seen as invasive outside of retail areas. Radio broadcasting created an estimate of 2.47 million jobs. News was also spread at a more efficient rate and could be reported to audiences in real-time.  
+# Sexism in Broadcasting
+People often referred to women's voices as “flat” and “shrill” when they spoke on radio broadcasts. These sexist theories emerged in the mid-1920s. Myths were spread about female talk hosts saying that no one liked the female talk hosts. They also said that people did not actually believe what these women were saying; they believed only men could speak with authority. This caused people to believe that women were not trustworthy talk hosts. 
 
 Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
 
@@ -66,7 +65,7 @@ The key insight was almost counterintuitive: the *lack* of a barrier to entry wa
 This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
-  image-path="jimmy-wales-imac.jpg"
+  image-path="images/jimmy-wales-imac.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
