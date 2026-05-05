@@ -1,8 +1,8 @@
 ---
 title: "Radio Broadcasting"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: images/images-2.jpeg
+thumbnail: images/images-2.jpeg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
 header-title: Radio Broadcasting
 header-subtitle: The Disruption of Expertise
@@ -34,7 +34,7 @@ People often referred to women's voices as “flat” and “shrill” when they
 
 
 {% include images/jumbotron.html %}
-  image-path="images/jimmy-wales-imac.jpg"
+  image-path="images/images-2"
   height="85vh"
   background-position="center top"
   box-align="left"
