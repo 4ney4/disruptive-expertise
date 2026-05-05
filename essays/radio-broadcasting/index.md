@@ -33,7 +33,7 @@ Radio broadcasting also influenced the start of advertising to people in their h
 People often referred to women's voices as “flat” and “shrill” when they spoke on radio broadcasts. These sexist theories emerged in the mid-1920s. Myths were spread about female talk hosts saying that no one liked the female talk hosts. They also said that people did not actually believe what these women were saying; they believed only men could speak with authority. This caused people to believe that women were not trustworthy talk hosts. 
 
 
-{% include images/jumbotron.html
+{% include images/jumbotron.html %}
   image-path="images/head-to-head.webp"
   height="85vh"
   background-position="center top"
@@ -41,7 +41,7 @@ People often referred to women's voices as “flat” and “shrill” when they
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 
 
-{% include images/figure-wrap.html
+{% include images/figure-wrap.html %}
   image-path="images/wikipedia-growth.PNG"
   image-position="left"
   image-width="44%"
