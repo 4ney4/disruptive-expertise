@@ -4,8 +4,8 @@ layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-title: Radio Broadcasting
+header-subtitle: The Disruption of Expertise
 header-position: center
 ---
 
@@ -34,7 +34,7 @@ People often referred to women's voices as “flat” and “shrill” when they
 
 
 {% include images/jumbotron.html %}
-  image-path="images/jimmy-wales-imac.jpeg"
+  image-path="images/jimmy-wales-imac.jpg"
   height="85vh"
   background-position="center top"
   box-align="left"
@@ -42,7 +42,7 @@ People often referred to women's voices as “flat” and “shrill” when they
 
 
 {% include images/figure-wrap.html %}
-  image-path="images/shutterstock_1042721746-1920x1080.jpeg"
+  image-path="images/shutterstock_1042721746-1920x1080.jpg"
   image-position="left"
   image-width="44%"
   caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
