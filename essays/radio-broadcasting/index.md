@@ -33,25 +33,14 @@ Radio broadcasting also influenced the start of advertising to people in their h
 People often referred to women's voices as “flat” and “shrill” when they spoke on radio broadcasts. These sexist theories emerged in the mid-1920s. Myths were spread about female talk hosts saying that no one liked the female talk hosts. They also said that people did not actually believe what these women were saying; they believed only men could speak with authority. This caused people to believe that women were not trustworthy talk hosts. 
 
 
-{% include images/jumbotron.html %}
-  image-path="images/images-2"
-  height="85vh"
-  background-position="center top"
-  box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 
 
-{% include images/figure-wrap.html %}
-  image-path="images/shutterstock_1042721746-1920x1080.jpg"
-  image-position="left"
-  image-width="44%"
-  caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
-  text=aftermath_text
+
 
 
 ## How I Used AI for This Essay
 
-NotebookLm has been a huge help while cultivating this essay. I had found many sources and case studies that helped me to find truthful information to include in this essay. I was able to find statistics more efficently and create a an organized notebook with all of my potential sources. 
+NotebookLm has been a huge help while cultivating this essay. I had found many sources and case studies that helped me to find truthful information to include in this essay. I was able to find statistics more efficently and create a an organized notebook with all of my potential sources. In the past, I tried to keep my distance from the usage of AI, but this project opened my eyes to new ways that AI can be used efficiently and in an informative way in academia. It was nice to gain a new outlook and be able to see the positives that AI can produce.
 
 
 ---
